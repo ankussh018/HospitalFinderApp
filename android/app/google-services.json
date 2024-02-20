@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260540963749",
+    "firebase_url": "https://hospitalfinderapp-5293b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hospitalfinderapp-5293b",
+    "storage_bucket": "hospitalfinderapp-5293b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260540963749:android:13bc5f702f0486cba9664c",
+        "android_client_info": {
+          "package_name": "com.hospitalfinderdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260540963749-tf6k0r2p6hd929vl608j4fiijlv52rav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hospitalfinderdemo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "260540963749-mlnte74r146deq6f9sfg2p0cm12056fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogAeMuxE0fnNYgvCLESaWbw3jeta9gwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260540963749-mlnte74r146deq6f9sfg2p0cm12056fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

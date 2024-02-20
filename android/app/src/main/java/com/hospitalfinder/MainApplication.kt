@@ -1,4 +1,4 @@
-package com.hospitalfinder
+package com.hospitalfinderdemo
 
 import android.app.Application
 import com.facebook.react.PackageList
